@@ -1,4 +1,6 @@
 //!!READ COPYRIGHT!!
+
+// To use this code, project need permission Eunbeen, rok, sueun cho 
 /**
  * 
  * Copyright © 2023 Sueun Cho
